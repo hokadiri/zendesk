@@ -17,7 +17,7 @@ Currently, the code runs but because of the redirect, I get a response code '200
 ##Task Two
 Works as expected
 test.css contains the test css file provided
-
+out.css contains the result after compressing the test.css
 ##Task three
 Works as expected
 
