@@ -16,6 +16,7 @@ seem to address the issue of 'redirects' which I noticed by examining the hurl r
 Currently, the code runs but because of the redirect, I get a response code '200' instead of '201'
 ##Task Two
 Works as expected
+test.css contains the test css file provided
 
 ##Task three
 Works as expected
